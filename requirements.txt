@@ -1,3 +1,5 @@
+# Add this line to the requirements.txt
+gunicorn
 altgraph
 attrs
 beautifulsoup4
